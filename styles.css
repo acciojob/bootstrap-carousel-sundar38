@@ -1,2 +1,5 @@
 
-/* Your CSS Code here. */
+.carousel-inner img{
+    height: 2400px;
+    width: 100%;
+}
